@@ -4,6 +4,6 @@ Provides a class for being used instead of asdf:package-inferred-system in 40ANT
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/40ants/40ants-asdf-system.git |
-| commit  | 05328c1                                              |
+| commit  | bd9ab05                                              |
 | systems | 40ants-asdf-system                                   |
 |---------+------------------------------------------------------|
