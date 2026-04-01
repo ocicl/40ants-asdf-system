@@ -7,3 +7,4 @@ Provides a class for being used instead of asdf:package-inferred-system in 40ANT
 | commit  | 492bc9b                                              |
 | systems | 40ants-asdf-system                                   |
 |---------+------------------------------------------------------|
+ 
